@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/icon.png" width="128" height="128" alt="SmartMobs: Full Russian Localization icon"></p>
+
 <h1 align="center">SmartMobs: Full Russian Localization</h1>
 
 <p align="center">
@@ -6,7 +8,9 @@
 </p>
 
 <p align="center">
-  <sub>Target: SmartMobs v1.4.1 · License: MIT · Encoding: UTF-8</sub>
+  <a href="https://github.com/milkycloud-dev/smartmobs-full-russian-localization/actions/workflows/build.yml"><img src="https://github.com/milkycloud-dev/smartmobs-full-russian-localization/actions/workflows/build.yml/badge.svg" alt="Build"></a>
+  <a href="https://github.com/milkycloud-dev/smartmobs-full-russian-localization/releases/latest"><img src="https://img.shields.io/github/v/release/milkycloud-dev/smartmobs-full-russian-localization" alt="Release"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="License: MIT"></a>
 </p>
 
 <p align="center">
@@ -26,12 +30,16 @@ It contains only configuration and text files to respect original author licensi
 
 ### Files
 
-- `config.yml`: Complete Russian configuration file (all 318 keys and comments) replacing English defaults.
+- `config.yml`: Complete Russian configuration file (318 keys).
 
 ### Installation
 
 1. Copy `config.yml` into `plugins/SmartMobs/config.yml`.
-2. Run `/smartmobs reload` or restart your server.
+2. Or download pre-built `.jar` from [Releases](https://github.com/milkycloud-dev/smartmobs-full-russian-localization/releases/latest).
+
+### Releases
+
+Pre-built ready-to-use binaries (`.jar` / `.zip`) are available for download in [Releases](https://github.com/milkycloud-dev/smartmobs-full-russian-localization/releases/latest).
 
 ### License
 
@@ -50,12 +58,16 @@ MIT License. Created by milkycloud-dev (2026).
 
 ### Файлы
 
-- `config.yml`: Полный файл конфигурации на русском языке (все 318 ключей и комментарии), заменяющий английский оригинал.
+- `config.yml`: Полный файл конфигурации на русском языке (318 ключей).
 
 ### Установка
 
-1. Скопируйте файл `config.yml` в папку `plugins/SmartMobs/config.yml`.
-2. Выполните команду `/smartmobs reload` или перезапустите сервер.
+1. Скопируйте файл `config.yml` в `plugins/SmartMobs/config.yml`.
+2. Либо скачайте готовую сборку `.jar` из раздела [Releases](https://github.com/milkycloud-dev/smartmobs-full-russian-localization/releases/latest).
+
+### Релизы
+
+Готовые собранные бинарные пакеты (`.jar` / `.zip`) доступны для загрузки в разделе [Releases](https://github.com/milkycloud-dev/smartmobs-full-russian-localization/releases/latest).
 
 ### Лицензия
 
